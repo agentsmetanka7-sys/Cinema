@@ -1,6 +1,0 @@
-services:
-  - type: web
-    name: cinema-php
-    env: docker
-    plan: free
-    autoDeploy: true
